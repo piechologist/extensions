@@ -164,6 +164,10 @@ version = "0.0.1"
 submodule = "extensions/brainfuck"
 version = "0.0.3"
 
+[brook-code-theme]
+submodule = "extensions/brook-code-theme"
+version = "1.0.0"
+
 [c3]
 submodule = "extensions/c3"
 version = "0.0.2"
@@ -252,6 +256,10 @@ version = "0.0.4"
 [conl]
 submodule = "extensions/conl"
 version = "1.0.0"
+
+[cooklang]
+submodule = "extensions/cooklang"
+version = "1.1.0"
 
 [cosmos]
 submodule = "extensions/cosmos"
@@ -473,7 +481,7 @@ version = "0.0.1"
 
 [fsharp]
 submodule = "extensions/fsharp"
-version = "0.0.3"
+version = "0.0.4"
 
 [fsm]
 submodule = "extensions/fsm"
@@ -777,7 +785,7 @@ version = "0.6.0"
 
 [macos-classic]
 submodule = "extensions/macos-classic"
-version = "0.2.1"
+version = "0.2.2"
 
 [make]
 submodule = "extensions/make"
@@ -801,7 +809,7 @@ version = "0.0.4"
 
 [marksman]
 submodule = "extensions/marksman"
-version = "0.0.2"
+version = "0.0.3"
 
 [martianized]
 submodule = "extensions/martianized"
@@ -1322,6 +1330,10 @@ version = "0.1.0"
 submodule = "extensions/zed"
 path = "extensions/snippets"
 version = "0.0.5"
+
+[snow-fox-theme]
+submodule = "extensions/snow-fox-theme"
+version = "0.0.1"
 
 [snowflake]
 submodule = "extensions/snowflake"

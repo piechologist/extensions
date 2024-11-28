@@ -158,6 +158,10 @@
 	path = extensions/brainfuck
 	url = https://github.com/JosephTLyons/zed-brainfuck.git
 
+[submodule "extensions/brook-code-theme"]
+	path = extensions/brook-code-theme
+	url = https://github.com/brook-code-theme/zed-theme.git
+
 [submodule "extensions/c3"]
 	path = extensions/c3
 	url = https://github.com/AineeJames/c3-zed.git
@@ -241,6 +245,10 @@
 [submodule "extensions/conl"]
 	path = extensions/conl
 	url = https://github.com/ConradIrwin/zed-extension-conl
+
+[submodule "extensions/cooklang"]
+	path = extensions/cooklang
+	url = https://github.com/hugginsio/zed-cooklang.git
 
 [submodule "extensions/cosmos"]
 	path = extensions/cosmos
@@ -1221,6 +1229,10 @@
 [submodule "extensions/snakemake"]
 	path = extensions/snakemake
 	url = https://github.com/lvignoli/zed-snakemake
+
+[submodule "extensions/snow-fox-theme"]
+	path = extensions/snow-fox-theme
+	url = https://github.com/ProPrak01/zed-SnowFox-theme.git
 
 [submodule "extensions/snowflake"]
 	path = extensions/snowflake
