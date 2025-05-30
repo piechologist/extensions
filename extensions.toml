@@ -1,6 +1,6 @@
 [0x96f]
 submodule = "extensions/0x96f"
-version = "1.3.4"
+version = "1.3.5"
 
 [actionscript]
 submodule = "extensions/actionscript"
@@ -330,7 +330,7 @@ version = "0.0.2"
 
 [charmed-icons]
 submodule = "extensions/charmed-icons"
-version = "0.9.1"
+version = "0.10.0"
 
 [chatgpt]
 submodule = "extensions/chatgpt"
@@ -1010,7 +1010,7 @@ version = "0.1.1"
 
 [kanso]
 submodule = "extensions/kanso"
-version = "0.0.7"
+version = "0.0.8"
 
 [kcl]
 submodule = "extensions/kcl"
@@ -1194,7 +1194,7 @@ version = "0.0.2"
 
 [mcp-server-buildkite]
 submodule = "extensions/mcp-server-buildkite"
-version = "0.0.2"
+version = "0.0.3"
 
 [mcp-server-context7]
 submodule = "extensions/mcp-server-context7"
@@ -1210,7 +1210,7 @@ version = "0.0.3"
 
 [mcp-server-firecrawl]
 submodule = "extensions/mcp-server-firecrawl"
-version = "0.0.2"
+version = "0.0.3"
 
 [mcp-server-github]
 submodule = "extensions/mcp-server-github"
@@ -1443,7 +1443,7 @@ version = "0.0.1"
 
 [noir-and-blanc-theme]
 submodule = "extensions/noir-and-blanc-theme"
-version = "0.1.0"
+version = "0.1.1"
 
 [nord]
 submodule = "extensions/nord"
@@ -1894,7 +1894,7 @@ version = "1.31.0"
 
 [serendipity]
 submodule = "extensions/serendipity"
-version = "0.0.7"
+version = "0.0.8"
 
 [seti-icons]
 submodule = "extensions/seti-icons"
@@ -1991,7 +1991,7 @@ version = "0.0.6"
 
 [sorbet]
 submodule = "extensions/sorbet"
-version = "0.1.0"
+version = "0.1.1"
 
 [sourcepawn]
 submodule = "extensions/sourcepawn"
